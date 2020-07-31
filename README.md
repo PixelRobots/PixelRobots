@@ -15,13 +15,13 @@
   <a href="https://pixelrobots.co.uk/"><img width="307" align='right' src="https://github.com/PixelRobots/PixelRobots/blob/master/images/blog.png?raw=true"></a>
 </p>
 
-### 💼 Where am currently working at/as
+### :globe_with_meridians: Community
 - 
 
-### 💻 What am currently working on
+### 💻 Projects
 - 
 
-### 📖 What am currently learning
+### 📖 Azure Learning Resources
 - 
 
 ### 📫 Where to find me
