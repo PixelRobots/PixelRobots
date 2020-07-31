@@ -16,10 +16,10 @@
 </p>
 
 ### :globe_with_meridians: Community
-- <a herf="https://mvp.microsoft.com/en-us/PublicProfile/5003450?fullName=Richard%20Hooper=1">Microsoft Azure MVP</a> awarded in August 2019.
-- Run the <a herf="https://www.meetup.com/North-East-Azure-User-Group/">North East Azure User Group</a> which normally meetup monthly.
+- <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003450?fullName=Richard%20Hooper=1">Microsoft Azure MVP</a> awarded in August 2019.
+- Run the <a href="https://www.meetup.com/North-East-Azure-User-Group/">North East Azure User Group</a> which normally meetup monthly.
 - Co ran the <a href="https://www.youtube.com/channel/UC6SpVz6lkAbOjAlvMxL8TmA">Online Azure Global Bootcamp UK and Ireland edition</a> (2020).
-- Created <a herf="https://github.com/PixelRobots/Azure-Study-Guides">Azure learning guides</a> for the role-based exams.
+- Created <a href="https://github.com/PixelRobots/Azure-Study-Guides">Azure learning guides</a> for the role-based exams.
 - Co-created <a href="https://cloudfamily.info/">CloudFamily.info.</a> An online resource for the cloud family.
 - Prominent in the Azure community.
 
