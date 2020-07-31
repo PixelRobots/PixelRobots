@@ -2,6 +2,7 @@
 
 <p align='center'>
 <a href="https://twitter.com/Pixel_Robots"><img height="30" src="https://github.com/PixelRobots/PixelRobots/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCs6gF5L-7iaoHlTDYpAlgsQ/"><img height="30" src="https://github.com/PixelRobots/PixelRobots/blob/master/images/youtube.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/richard-hooper-598a1412/"><img height="30" src="https://github.com/PixelRobots/PixelRobots/blob/master/images/linkedin.png?raw=true"></a>
 </p>
 
