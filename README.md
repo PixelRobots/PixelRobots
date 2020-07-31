@@ -1,8 +1,8 @@
-## [![PixelRobots header](URL)](https://pixelrobots.co.uk)
+## [![PixelRobots header](https://github.com/PixelRobots/PixelRobots/blob/master/images/PixelRobots_Desktop_Wallpaper.png?raw=true)](https://pixelrobots.co.uk)
 
 <p align='center'>
-<a href="https://twitter.com/Pixel_Robots"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/richard-hooper-598a1412/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/Pixel_Robots"><img height="30" src="https://github.com/PixelRobots/PixelRobots/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/richard-hooper-598a1412/"><img height="30" src="https://github.com/PixelRobots/PixelRobots/blob/master/images/linkedin.png?raw=true"></a>
 </p>
 
 <h2 align="center">Hello there! 👋🤓</h2>
