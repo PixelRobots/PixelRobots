@@ -1,16 +1,29 @@
-### Hi there 👋
+## [![PixelRobots header](URL)](https://pixelrobots.co.uk)
 
-<!--
-**PixelRobots/PixelRobots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+<a href="https://twitter.com/Pixel_Robots"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/richard-hooper-598a1412/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Hello there! 👋🤓</h2>
+<p align="center">A bit about me</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<em><p align="center"><a href="https://pixelrobots.co.uk">Why not check out my blog all about Azure</a></p></em>
+<p>
+  
+  <a href="https://pixelrobots.co.uk/"><img width="307" align='right' src="image URL"></a>
+</p>
+
+### 💼 Where am currently working at/as
+- 
+
+### 💻 What am currently working on
+- 
+
+### 📖 What am currently learning
+- 
+
+### 📫 Where to find me
+- 
+
+<h4 align="center">From <a href="https://github.com/pixelrobots/pixelrobots"> PixelRobots's Github Profile Readme MD</a></h4>
