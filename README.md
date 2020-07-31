@@ -12,7 +12,7 @@
 <em><p align="center"><a href="https://pixelrobots.co.uk">Why not check out my blog all about Azure</a></p></em>
 <p>
   
-  <a href="https://pixelrobots.co.uk/"><img width="307" align='right' src="image URL"></a>
+  <a href="https://pixelrobots.co.uk/"><img width="307" align='right' src="https://github.com/PixelRobots/PixelRobots/blob/master/images/blog.png?raw=true"></a>
 </p>
 
 ### 💼 Where am currently working at/as
