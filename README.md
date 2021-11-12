@@ -38,9 +38,7 @@
 - Created <a href="https://github.com/PixelRobots/Azure-Study-Guides">Azure learning guides</a> for the role-based exams.
 - Co-created <a href="https://cloudfamily.info/">CloudFamily.info.</a> An online resource for the cloud family.
 - Prominent in the Azure community.
-</br>
-</br>
-</br>
+
 <!--
 ### 💻 Projects
 - 
@@ -55,4 +53,4 @@
 - <a href="https://www.youtube.com/channel/UCs6gF5L-7iaoHlTDYpAlgsQ/">YouTube</a>
 - <a href="https://www.linkedin.com/in/richard-hooper-598a1412/">LinkedIn</a>
 -->
-<h4 align="center">From <a href="https://github.com/pixelrobots/pixelrobots"> PixelRobots's Github Profile Readme MD</a></h4>
+
