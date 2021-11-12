@@ -19,5 +19,6 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           max_post_count: 6
           #template: "$newline[![$title](https://freshidea.com/jonah/app/youtube-card/?id=$videoId)]($url \"$title\")"
-          template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          #template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          template: '<a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date$newline'
           committer_email: "richard.hooper@pixelrobots.co.uk"
