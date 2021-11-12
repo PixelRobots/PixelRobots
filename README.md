@@ -16,6 +16,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelrobots&show_icons=true&theme=yeblu)
 
+<a >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelrobots&show_icons=true&theme=yeblu" />
+</a>
 
 
 <em><p align="right"><a href="https://pixelrobots.co.uk">Why not check out my blog all about Azure</a></p></em>
