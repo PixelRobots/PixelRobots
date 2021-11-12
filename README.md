@@ -23,21 +23,6 @@
 </p>
 
 
-<em><p align="right"><a href="https://pixelrobots.co.uk">Why not check out my blog all about Azure</a></p></em>
-<p>
-  
-  <a href="https://pixelrobots.co.uk/"><img width="307" align='right' src="https://github.com/PixelRobots/PixelRobots/blob/master/images/blog.png?raw=true"></a>
-</p>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 ## 📺 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Sponsored: SysAdmin Horror Stories Vol.3 – FREE eBook](https://pixelrobots.co.uk/2021/10/sponsored-sysadmin-horror-stories-vol-3-free-ebook/?utm_source=rss&utm_medium=rss&utm_campaign=sponsored-sysadmin-horror-stories-vol-3-free-ebook)
