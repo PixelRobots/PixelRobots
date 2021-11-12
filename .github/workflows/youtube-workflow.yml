@@ -20,5 +20,5 @@ jobs:
           max_post_count: 6
           #template: "$newline[![$title](https://freshidea.com/jonah/app/youtube-card/?id=$videoId)]($url \"$title\")"
           #template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
-          template: '<a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a>$newline<td><a href="$url">$title</a><br/>$date$newline'
+          template: '<div class="card"><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" alt="YouTube Thumbnail"></a>$newline<div class="container"><a href="$url">$title</a><br/>$date$newline</div></div>'
           committer_email: "richard.hooper@pixelrobots.co.uk"
