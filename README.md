@@ -14,7 +14,7 @@
 
 <p align="center">A bit about me</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelrobots&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelrobots&show_icons=true&theme=yeblu)
 
 
 <em><p align="right"><a href="https://pixelrobots.co.uk">Why not check out my blog all about Azure</a></p></em>
