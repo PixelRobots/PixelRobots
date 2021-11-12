@@ -45,19 +45,19 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
-<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=aowwo8-N_Kc"><img width="140px" src="https://i.ytimg.com/vi/aowwo8-N_Kc/mqdefault.jpg"></a>
-<td><a href="https://www.youtube.com/watch?v=aowwo8-N_Kc">WebAssembly comes to Azure Kubernetes Service #shorts #aks #azure #kubernetes #k8s</a><br/>Wed Oct 13 2021 8:26 AM
-<a href="https://www.youtube.com/watch?v=hNSaHx6WUF8"><img width="140px" src="https://i.ytimg.com/vi/hNSaHx6WUF8/mqdefault.jpg"></a>
-<td><a href="https://www.youtube.com/watch?v=hNSaHx6WUF8">Check out the Azure Kubernetes Service deployer! #shorts #aks #azure #kubernetes #k8s</a><br/>Fri Oct 01 2021 10:12 AM
-<a href="https://www.youtube.com/watch?v=HX72ifEOkdw"><img width="140px" src="https://i.ytimg.com/vi/HX72ifEOkdw/mqdefault.jpg"></a>
-<td><a href="https://www.youtube.com/watch?v=HX72ifEOkdw">The new add-on commands are now live in preview for Azure Kubernetes Service. #shorts #aks #azure</a><br/>Thu Sep 30 2021 4:26 PM
-<a href="https://www.youtube.com/watch?v=2hjcX-SCmNs"><img width="140px" src="https://i.ytimg.com/vi/2hjcX-SCmNs/mqdefault.jpg"></a>
-<td><a href="https://www.youtube.com/watch?v=2hjcX-SCmNs">Is WASM coming to Azure Kubernetes Service &lpar;AKS&rpar;? #shorts #aks #azure #kubernetes #k8s</a><br/>Wed Sep 29 2021 9:45 AM
-<a href="https://www.youtube.com/watch?v=nW21Dg8ZogQ"><img width="140px" src="https://i.ytimg.com/vi/nW21Dg8ZogQ/mqdefault.jpg"></a>
-<td><a href="https://www.youtube.com/watch?v=nW21Dg8ZogQ">Give the Azure Kubernetes Service &lpar;AKS&rpar; cloud skills challenge a go. #shorts #aks #azure #kubernetes</a><br/>Tue Sep 28 2021 12:21 PM
-<a href="https://www.youtube.com/watch?v=j_nmx90DsnU"><img width="140px" src="https://i.ytimg.com/vi/j_nmx90DsnU/mqdefault.jpg"></a>
-<td><a href="https://www.youtube.com/watch?v=j_nmx90DsnU">Go update your Azure Kubernetes Service &lpar;AKS&rpar; nodes now! #Shorts #aks #azure #kubernetes #k8s</a><br/>Mon Sep 27 2021 9:06 AM
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><div class="card"><a href="https://www.youtube.com/watch?v=aowwo8-N_Kc"><img width="140px" src="https://i.ytimg.com/vi/aowwo8-N_Kc/mqdefault.jpg" alt="YouTube Thumbnail"></a>
+<div class="container"><a href="https://www.youtube.com/watch?v=aowwo8-N_Kc">WebAssembly comes to Azure Kubernetes Service #shorts #aks #azure #kubernetes #k8s</a><br/>Wed Oct 13 2021 8:26 AM
+</div></div><div class="card"><a href="https://www.youtube.com/watch?v=hNSaHx6WUF8"><img width="140px" src="https://i.ytimg.com/vi/hNSaHx6WUF8/mqdefault.jpg" alt="YouTube Thumbnail"></a>
+<div class="container"><a href="https://www.youtube.com/watch?v=hNSaHx6WUF8">Check out the Azure Kubernetes Service deployer! #shorts #aks #azure #kubernetes #k8s</a><br/>Fri Oct 01 2021 10:12 AM
+</div></div><div class="card"><a href="https://www.youtube.com/watch?v=HX72ifEOkdw"><img width="140px" src="https://i.ytimg.com/vi/HX72ifEOkdw/mqdefault.jpg" alt="YouTube Thumbnail"></a>
+<div class="container"><a href="https://www.youtube.com/watch?v=HX72ifEOkdw">The new add-on commands are now live in preview for Azure Kubernetes Service. #shorts #aks #azure</a><br/>Thu Sep 30 2021 4:26 PM
+</div></div><div class="card"><a href="https://www.youtube.com/watch?v=2hjcX-SCmNs"><img width="140px" src="https://i.ytimg.com/vi/2hjcX-SCmNs/mqdefault.jpg" alt="YouTube Thumbnail"></a>
+<div class="container"><a href="https://www.youtube.com/watch?v=2hjcX-SCmNs">Is WASM coming to Azure Kubernetes Service &lpar;AKS&rpar;? #shorts #aks #azure #kubernetes #k8s</a><br/>Wed Sep 29 2021 9:45 AM
+</div></div><div class="card"><a href="https://www.youtube.com/watch?v=nW21Dg8ZogQ"><img width="140px" src="https://i.ytimg.com/vi/nW21Dg8ZogQ/mqdefault.jpg" alt="YouTube Thumbnail"></a>
+<div class="container"><a href="https://www.youtube.com/watch?v=nW21Dg8ZogQ">Give the Azure Kubernetes Service &lpar;AKS&rpar; cloud skills challenge a go. #shorts #aks #azure #kubernetes</a><br/>Tue Sep 28 2021 12:21 PM
+</div></div><div class="card"><a href="https://www.youtube.com/watch?v=j_nmx90DsnU"><img width="140px" src="https://i.ytimg.com/vi/j_nmx90DsnU/mqdefault.jpg" alt="YouTube Thumbnail"></a>
+<div class="container"><a href="https://www.youtube.com/watch?v=j_nmx90DsnU">Go update your Azure Kubernetes Service &lpar;AKS&rpar; nodes now! #Shorts #aks #azure #kubernetes #k8s</a><br/>Mon Sep 27 2021 9:06 AM
+</div></div><!-- YOUTUBE:END -->
 
 
 ## :globe_with_meridians: Community
