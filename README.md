@@ -1,7 +1,7 @@
 ## [![PixelRobots header](https://github.com/PixelRobots/PixelRobots/blob/master/images/PixelRobots_Desktop_Wallpaper.png?raw=true)](https://pixelrobots.co.uk)
 
 
-<h2 align="center">Hello there! 👋🤓</h2>
+<h1 align="center">Hello there!</h1>
 
 
 ![GitHub followers](https://img.shields.io/github/followers/pixelrobots?style=social)
@@ -38,7 +38,9 @@
 - Created <a href="https://github.com/PixelRobots/Azure-Study-Guides">Azure learning guides</a> for the role-based exams.
 - Co-created <a href="https://cloudfamily.info/">CloudFamily.info.</a> An online resource for the cloud family.
 - Prominent in the Azure community.
-
+</br>
+</br>
+</br>
 <!--
 ### 💻 Projects
 - 
