@@ -45,23 +45,23 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
-<!-- YOUTUBE:START --><div class="card" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 40%"><a href="https://www.youtube.com/watch?v=aowwo8-N_Kc"><img width="100%" src="https://i.ytimg.com/vi/aowwo8-N_Kc/mqdefault.jpg" alt="YouTube Thumbnail"></a>
-<div class="container" style="padding: 2px 16px"><a href="https://www.youtube.com/watch?v=aowwo8-N_Kc">WebAssembly comes to Azure Kubernetes Service #shorts #aks #azure #kubernetes #k8s</a><br/>Wed Oct 13 2021 8:26 AM
+<!-- YOUTUBE:START --><div class="w3-card-4" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 50%"><a href="https://www.youtube.com/watch?v=aowwo8-N_Kc"><img src="https://i.ytimg.com/vi/aowwo8-N_Kc/mqdefault.jpg" alt="YouTube Thumbnail"></a>
+<div class="w3-container w3-center" style="padding: 2px 16px"><a href="https://www.youtube.com/watch?v=aowwo8-N_Kc">WebAssembly comes to Azure Kubernetes Service #shorts #aks #azure #kubernetes #k8s</a><br/>Wed Oct 13 2021 8:26 AM
 </div></div>
-<div class="card" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 40%"><a href="https://www.youtube.com/watch?v=hNSaHx6WUF8"><img width="100%" src="https://i.ytimg.com/vi/hNSaHx6WUF8/mqdefault.jpg" alt="YouTube Thumbnail"></a>
-<div class="container" style="padding: 2px 16px"><a href="https://www.youtube.com/watch?v=hNSaHx6WUF8">Check out the Azure Kubernetes Service deployer! #shorts #aks #azure #kubernetes #k8s</a><br/>Fri Oct 01 2021 10:12 AM
+<div class="w3-card-4" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 50%"><a href="https://www.youtube.com/watch?v=hNSaHx6WUF8"><img src="https://i.ytimg.com/vi/hNSaHx6WUF8/mqdefault.jpg" alt="YouTube Thumbnail"></a>
+<div class="w3-container w3-center" style="padding: 2px 16px"><a href="https://www.youtube.com/watch?v=hNSaHx6WUF8">Check out the Azure Kubernetes Service deployer! #shorts #aks #azure #kubernetes #k8s</a><br/>Fri Oct 01 2021 10:12 AM
 </div></div>
-<div class="card" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 40%"><a href="https://www.youtube.com/watch?v=HX72ifEOkdw"><img width="100%" src="https://i.ytimg.com/vi/HX72ifEOkdw/mqdefault.jpg" alt="YouTube Thumbnail"></a>
-<div class="container" style="padding: 2px 16px"><a href="https://www.youtube.com/watch?v=HX72ifEOkdw">The new add-on commands are now live in preview for Azure Kubernetes Service. #shorts #aks #azure</a><br/>Thu Sep 30 2021 4:26 PM
+<div class="w3-card-4" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 50%"><a href="https://www.youtube.com/watch?v=HX72ifEOkdw"><img src="https://i.ytimg.com/vi/HX72ifEOkdw/mqdefault.jpg" alt="YouTube Thumbnail"></a>
+<div class="w3-container w3-center" style="padding: 2px 16px"><a href="https://www.youtube.com/watch?v=HX72ifEOkdw">The new add-on commands are now live in preview for Azure Kubernetes Service. #shorts #aks #azure</a><br/>Thu Sep 30 2021 4:26 PM
 </div></div>
-<div class="card" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 40%"><a href="https://www.youtube.com/watch?v=2hjcX-SCmNs"><img width="100%" src="https://i.ytimg.com/vi/2hjcX-SCmNs/mqdefault.jpg" alt="YouTube Thumbnail"></a>
-<div class="container" style="padding: 2px 16px"><a href="https://www.youtube.com/watch?v=2hjcX-SCmNs">Is WASM coming to Azure Kubernetes Service &lpar;AKS&rpar;? #shorts #aks #azure #kubernetes #k8s</a><br/>Wed Sep 29 2021 9:45 AM
+<div class="w3-card-4" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 50%"><a href="https://www.youtube.com/watch?v=2hjcX-SCmNs"><img src="https://i.ytimg.com/vi/2hjcX-SCmNs/mqdefault.jpg" alt="YouTube Thumbnail"></a>
+<div class="w3-container w3-center" style="padding: 2px 16px"><a href="https://www.youtube.com/watch?v=2hjcX-SCmNs">Is WASM coming to Azure Kubernetes Service &lpar;AKS&rpar;? #shorts #aks #azure #kubernetes #k8s</a><br/>Wed Sep 29 2021 9:45 AM
 </div></div>
-<div class="card" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 40%"><a href="https://www.youtube.com/watch?v=nW21Dg8ZogQ"><img width="100%" src="https://i.ytimg.com/vi/nW21Dg8ZogQ/mqdefault.jpg" alt="YouTube Thumbnail"></a>
-<div class="container" style="padding: 2px 16px"><a href="https://www.youtube.com/watch?v=nW21Dg8ZogQ">Give the Azure Kubernetes Service &lpar;AKS&rpar; cloud skills challenge a go. #shorts #aks #azure #kubernetes</a><br/>Tue Sep 28 2021 12:21 PM
+<div class="w3-card-4" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 50%"><a href="https://www.youtube.com/watch?v=nW21Dg8ZogQ"><img src="https://i.ytimg.com/vi/nW21Dg8ZogQ/mqdefault.jpg" alt="YouTube Thumbnail"></a>
+<div class="w3-container w3-center" style="padding: 2px 16px"><a href="https://www.youtube.com/watch?v=nW21Dg8ZogQ">Give the Azure Kubernetes Service &lpar;AKS&rpar; cloud skills challenge a go. #shorts #aks #azure #kubernetes</a><br/>Tue Sep 28 2021 12:21 PM
 </div></div>
-<div class="card" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 40%"><a href="https://www.youtube.com/watch?v=j_nmx90DsnU"><img width="100%" src="https://i.ytimg.com/vi/j_nmx90DsnU/mqdefault.jpg" alt="YouTube Thumbnail"></a>
-<div class="container" style="padding: 2px 16px"><a href="https://www.youtube.com/watch?v=j_nmx90DsnU">Go update your Azure Kubernetes Service &lpar;AKS&rpar; nodes now! #Shorts #aks #azure #kubernetes #k8s</a><br/>Mon Sep 27 2021 9:06 AM
+<div class="w3-card-4" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s; width: 50%"><a href="https://www.youtube.com/watch?v=j_nmx90DsnU"><img src="https://i.ytimg.com/vi/j_nmx90DsnU/mqdefault.jpg" alt="YouTube Thumbnail"></a>
+<div class="w3-container w3-center" style="padding: 2px 16px"><a href="https://www.youtube.com/watch?v=j_nmx90DsnU">Go update your Azure Kubernetes Service &lpar;AKS&rpar; nodes now! #Shorts #aks #azure #kubernetes #k8s</a><br/>Mon Sep 27 2021 9:06 AM
 </div></div>
 <!-- YOUTUBE:END -->
 
