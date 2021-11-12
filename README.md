@@ -24,7 +24,8 @@
   
   <a href="https://pixelrobots.co.uk/"><img width="307" align='right' src="https://github.com/PixelRobots/PixelRobots/blob/master/images/blog.png?raw=true"></a>
 </p>
-
+</br>
+<p align="left">
 ### :globe_with_meridians: Community
 - <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003450?fullName=Richard%20Hooper=1">Microsoft Azure MVP</a> awarded in August 2019.
 - Run the <a href="https://www.meetup.com/North-East-Azure-User-Group/">North East Azure User Group</a> which normally meetup monthly.
@@ -32,6 +33,7 @@
 - Created <a href="https://github.com/PixelRobots/Azure-Study-Guides">Azure learning guides</a> for the role-based exams.
 - Co-created <a href="https://cloudfamily.info/">CloudFamily.info.</a> An online resource for the cloud family.
 - Prominent in the Azure community.
+ </p>
 <!--
 ### 💻 Projects
 - 
