@@ -15,7 +15,7 @@
 <p align="center">A bit about me</p>
 
 <a >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelrobots&show_icons=true&bg_color=ffea00&title_color=000000&text_color=000000&icon_color=ff0000&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelrobots&show_icons=true&bg_color=ffea00&title_color=000000&text_color=000000&icon_color=ff0000&hide_border=true&count_private=true" />
 </a>
 
 
