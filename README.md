@@ -33,17 +33,13 @@
 </br>
 
 ## 📺 Latest Blog Posts
-<!-- BLOG-POST-LIST:START --><a href="https://pixelrobots.co.uk/2021/10/sponsored-sysadmin-horror-stories-vol-3-free-ebook/?utm_source=rss&utm_medium=rss&utm_campaign=sponsored-sysadmin-horror-stories-vol-3-free-ebook"><img width="140px" src="https://github.com/PixelRobots/PixelRobots/blob/master/images/PixelRobots_Desktop_Wallpaper.png?raw=true"></a></td>
-<td><a href="https://pixelrobots.co.uk/2021/10/sponsored-sysadmin-horror-stories-vol-3-free-ebook/?utm_source=rss&utm_medium=rss&utm_campaign=sponsored-sysadmin-horror-stories-vol-3-free-ebook">Sponsored: SysAdmin Horror Stories Vol.3 – FREE eBook</a><br/>Mon Oct 25 2021 1:54 PM
-</br><a href="https://pixelrobots.co.uk/2021/08/aks-burst-to-aci-when-node-pool-is-full/?utm_source=rss&utm_medium=rss&utm_campaign=aks-burst-to-aci-when-node-pool-is-full"><img width="140px" src="https://github.com/PixelRobots/PixelRobots/blob/master/images/PixelRobots_Desktop_Wallpaper.png?raw=true"></a></td>
-<td><a href="https://pixelrobots.co.uk/2021/08/aks-burst-to-aci-when-node-pool-is-full/?utm_source=rss&utm_medium=rss&utm_campaign=aks-burst-to-aci-when-node-pool-is-full">AKS burst to ACI when node pool is full</a><br/>Wed Aug 25 2021 7:30 AM
-</br><a href="https://pixelrobots.co.uk/2021/07/first-look-gitops-on-azure-kubernetes-service-using-the-aks-addon-preview/?utm_source=rss&utm_medium=rss&utm_campaign=first-look-gitops-on-azure-kubernetes-service-using-the-aks-addon-preview"><img width="140px" src="https://github.com/PixelRobots/PixelRobots/blob/master/images/PixelRobots_Desktop_Wallpaper.png?raw=true"></a></td>
-<td><a href="https://pixelrobots.co.uk/2021/07/first-look-gitops-on-azure-kubernetes-service-using-the-aks-addon-preview/?utm_source=rss&utm_medium=rss&utm_campaign=first-look-gitops-on-azure-kubernetes-service-using-the-aks-addon-preview">First Look: GitOps on Azure Kubernetes Service using the AKS addon &lpar;preview&rpar;</a><br/>Tue Jul 13 2021 12:26 PM
-</br><a href="https://pixelrobots.co.uk/2021/06/externaldns-and-azure-kubernetes-service-aks/?utm_source=rss&utm_medium=rss&utm_campaign=externaldns-and-azure-kubernetes-service-aks"><img width="140px" src="https://github.com/PixelRobots/PixelRobots/blob/master/images/PixelRobots_Desktop_Wallpaper.png?raw=true"></a></td>
-<td><a href="https://pixelrobots.co.uk/2021/06/externaldns-and-azure-kubernetes-service-aks/?utm_source=rss&utm_medium=rss&utm_campaign=externaldns-and-azure-kubernetes-service-aks">ExternalDNS and Azure Kubernetes Service &lpar;AKS&rpar;</a><br/>Wed Jun 23 2021 8:38 AM
-</br><a href="https://pixelrobots.co.uk/2021/05/automatic-azure-kubernetes-service-aks-node-image-updates/?utm_source=rss&utm_medium=rss&utm_campaign=automatic-azure-kubernetes-service-aks-node-image-updates"><img width="140px" src="https://github.com/PixelRobots/PixelRobots/blob/master/images/PixelRobots_Desktop_Wallpaper.png?raw=true"></a></td>
-<td><a href="https://pixelrobots.co.uk/2021/05/automatic-azure-kubernetes-service-aks-node-image-updates/?utm_source=rss&utm_medium=rss&utm_campaign=automatic-azure-kubernetes-service-aks-node-image-updates">Automatic Azure Kubernetes Service &lpar;AKS&rpar; node Image updates</a><br/>Mon May 24 2021 10:47 AM
-</br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Sponsored: SysAdmin Horror Stories Vol.3 – FREE eBook](https://pixelrobots.co.uk/2021/10/sponsored-sysadmin-horror-stories-vol-3-free-ebook/?utm_source=rss&utm_medium=rss&utm_campaign=sponsored-sysadmin-horror-stories-vol-3-free-ebook)
+- [AKS burst to ACI when node pool is full](https://pixelrobots.co.uk/2021/08/aks-burst-to-aci-when-node-pool-is-full/?utm_source=rss&utm_medium=rss&utm_campaign=aks-burst-to-aci-when-node-pool-is-full)
+- [First Look: GitOps on Azure Kubernetes Service using the AKS addon &lpar;preview&rpar;](https://pixelrobots.co.uk/2021/07/first-look-gitops-on-azure-kubernetes-service-using-the-aks-addon-preview/?utm_source=rss&utm_medium=rss&utm_campaign=first-look-gitops-on-azure-kubernetes-service-using-the-aks-addon-preview)
+- [ExternalDNS and Azure Kubernetes Service &lpar;AKS&rpar;](https://pixelrobots.co.uk/2021/06/externaldns-and-azure-kubernetes-service-aks/?utm_source=rss&utm_medium=rss&utm_campaign=externaldns-and-azure-kubernetes-service-aks)
+- [Automatic Azure Kubernetes Service &lpar;AKS&rpar; node Image updates](https://pixelrobots.co.uk/2021/05/automatic-azure-kubernetes-service-aks-node-image-updates/?utm_source=rss&utm_medium=rss&utm_campaign=automatic-azure-kubernetes-service-aks-node-image-updates)
+<!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest YouTube videos
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
