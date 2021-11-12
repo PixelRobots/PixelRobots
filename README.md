@@ -40,6 +40,11 @@
 
 ## 📺 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sponsored: SysAdmin Horror Stories Vol.3 – FREE eBook](https://pixelrobots.co.uk/2021/10/sponsored-sysadmin-horror-stories-vol-3-free-ebook/?utm_source=rss&utm_medium=rss&utm_campaign=sponsored-sysadmin-horror-stories-vol-3-free-ebook)
+- [AKS burst to ACI when node pool is full](https://pixelrobots.co.uk/2021/08/aks-burst-to-aci-when-node-pool-is-full/?utm_source=rss&utm_medium=rss&utm_campaign=aks-burst-to-aci-when-node-pool-is-full)
+- [First Look: GitOps on Azure Kubernetes Service using the AKS addon &lpar;preview&rpar;](https://pixelrobots.co.uk/2021/07/first-look-gitops-on-azure-kubernetes-service-using-the-aks-addon-preview/?utm_source=rss&utm_medium=rss&utm_campaign=first-look-gitops-on-azure-kubernetes-service-using-the-aks-addon-preview)
+- [ExternalDNS and Azure Kubernetes Service &lpar;AKS&rpar;](https://pixelrobots.co.uk/2021/06/externaldns-and-azure-kubernetes-service-aks/?utm_source=rss&utm_medium=rss&utm_campaign=externaldns-and-azure-kubernetes-service-aks)
+- [Automatic Azure Kubernetes Service &lpar;AKS&rpar; node Image updates](https://pixelrobots.co.uk/2021/05/automatic-azure-kubernetes-service-aks-node-image-updates/?utm_source=rss&utm_medium=rss&utm_campaign=automatic-azure-kubernetes-service-aks-node-image-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ### :globe_with_meridians: Community
