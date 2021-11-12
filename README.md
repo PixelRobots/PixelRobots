@@ -53,6 +53,9 @@
 <div class="card__content" style="background-color: yellow"><a href="https://www.youtube.com/watch?v=nW21Dg8ZogQ">Give the Azure Kubernetes Service &lpar;AKS&rpar; cloud skills challenge a go. #shorts #aks #azure #kubernetes</a></div></div></br><div class="card" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); border-radius: 20px; padding: 20px 20px 28px 20px; border: solid 2px red; width 55%"><a href="https://www.youtube.com/watch?v=j_nmx90DsnU"><img src="https://i.ytimg.com/vi/j_nmx90DsnU/mqdefault.jpg" alt="YouTube Thumbnail"></a>
 <div class="card__content" style="background-color: yellow"><a href="https://www.youtube.com/watch?v=j_nmx90DsnU">Go update your Azure Kubernetes Service &lpar;AKS&rpar; nodes now! #Shorts #aks #azure #kubernetes #k8s</a></div></div></br><!-- YOUTUBE:END -->
 
+## 🐦 Latest Tweets
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pixel_robots)](https://github.com/gazf/github-readme-twitter)
+
 
 ## :globe_with_meridians: Community
 - <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003450?fullName=Richard%20Hooper=1">Microsoft Azure MVP</a> awarded in August 2019.
