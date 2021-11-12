@@ -1,18 +1,16 @@
 ## [![PixelRobots header](https://github.com/PixelRobots/PixelRobots/blob/master/images/PixelRobots_Desktop_Wallpaper.png?raw=true)](https://pixelrobots.co.uk)
 
-<p align='center'>
-<a href="https://twitter.com/Pixel_Robots"><img height="30" src="https://github.com/PixelRobots/PixelRobots/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCs6gF5L-7iaoHlTDYpAlgsQ/"><img height="30" src="https://github.com/PixelRobots/PixelRobots/blob/master/images/youtube.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/richard-hooper-598a1412/"><img height="30" src="https://github.com/PixelRobots/PixelRobots/blob/master/images/linkedin.png?raw=true"></a>
-</p>
 
 <h2 align="center">Hello there! 👋🤓</h2>
 
+<p align='center'>
 ![GitHub followers](https://img.shields.io/github/followers/pixelrobots?style=social)
 [![Linkedin: Richard Hooper](https://img.shields.io/badge/-Richard%20Hooper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-hooper-uk/)](https://www.linkedin.com/in/richard-hooper-uk/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/pixel_robots?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCs6gF5L-7iaoHlTDYpAlgsQ?style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=pixelrobots&left_color=gray&right_color=blue)
+</p>
+
 
 <p align="center">A bit about me</p>
 
