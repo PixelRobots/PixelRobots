@@ -54,7 +54,7 @@
 <div class="card__content" style="background-color: yellow"><a href="https://www.youtube.com/watch?v=j_nmx90DsnU">Go update your Azure Kubernetes Service &lpar;AKS&rpar; nodes now! #Shorts #aks #azure #kubernetes #k8s</a></div></div></br><!-- YOUTUBE:END -->
 
 ## 🐦 Latest Tweets
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pixel_robots)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pixel_robots?layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 
 ## :globe_with_meridians: Community
