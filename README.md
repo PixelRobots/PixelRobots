@@ -14,10 +14,8 @@
 
 <p align="center">A bit about me</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelrobots&show_icons=true&theme=yeblu)
-
 <a >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelrobots&show_icons=true&theme=yeblu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelrobots&show_icons=true&theme=yeblu&title_color=#ffea00" />
 </a>
 
 
