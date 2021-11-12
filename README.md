@@ -1,7 +1,14 @@
 ## [![PixelRobots header](https://github.com/PixelRobots/PixelRobots/blob/master/images/PixelRobots_Desktop_Wallpaper.png?raw=true)](https://pixelrobots.co.uk)
 
+<h1 align="center">
+  Welcome to PixelRobots profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-<h1 align="center">Hello there!</h1>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Azure%20Advocate%20and%20Microsoft%20MVP;Sysadmin%20at%2heart;15%2B%20years%20of%20IT%20experience;Always%20learning%20new%20things&font=roboto&center=true&width=440&height=45&color=ffea00&vCenter=true&size=22"></a>
+</p>
 
 
 ![GitHub followers](https://img.shields.io/github/followers/pixelrobots?style=social)
@@ -30,6 +37,10 @@
 </br>
 </br>
 </br>
+
+## 📺 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### :globe_with_meridians: Community
 - <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003450?fullName=Richard%20Hooper=1">Microsoft Azure MVP</a> awarded in August 2019.
