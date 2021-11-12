@@ -11,9 +11,6 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=pixelrobots&left_color=gray&right_color=blue)
 
 
-
-<p align="center">A bit about me</p>
-
 <p >
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pixelrobots&show_icons=true&bg_color=ffea00&title_color=000000&text_color=000000&icon_color=ff0000&hide_border=true&count_private=true" />
 </p>
@@ -24,6 +21,9 @@
   
   <a href="https://pixelrobots.co.uk/"><img width="307" align='right' src="https://github.com/PixelRobots/PixelRobots/blob/master/images/blog.png?raw=true"></a>
 </p>
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
