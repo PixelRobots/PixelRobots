@@ -3,13 +3,13 @@
 
 <h2 align="center">Hello there! 👋🤓</h2>
 
-<p align='center'>
+
 ![GitHub followers](https://img.shields.io/github/followers/pixelrobots?style=social)
 [![Linkedin: Richard Hooper](https://img.shields.io/badge/-Richard%20Hooper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-hooper-uk/)](https://www.linkedin.com/in/richard-hooper-uk/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/pixel_robots?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCs6gF5L-7iaoHlTDYpAlgsQ?style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=pixelrobots&left_color=gray&right_color=blue)
-</p>
+
 
 
 <p align="center">A bit about me</p>
