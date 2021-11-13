@@ -13,8 +13,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/pixelrobots?style=social)
 [![Linkedin: Richard Hooper](https://img.shields.io/badge/-Richard%20Hooper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-hooper-uk/)](https://www.linkedin.com/in/richard-hooper-uk/)
-![Twitter Follow](https://img.shields.io/twitter/follow/pixel_robots?style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCs6gF5L-7iaoHlTDYpAlgsQ?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/pixel_robots?style=social&link=https://twitter.com/pixel_robots?ref_src=twsrc%5Etfw")](https://twitter.com/pixel_robots?ref_src=twsrc%5Etfw")
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCs6gF5L-7iaoHlTDYpAlgsQ?style=social&link=https://www.youtube.com/c/pixelrobots?sub_confirmation=1)](https://www.youtube.com/c/pixelrobots?sub_confirmation=1)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=pixelrobots&left_color=gray&right_color=blue)
 
 
