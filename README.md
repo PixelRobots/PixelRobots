@@ -61,6 +61,11 @@
 <td><a href="https://www.youtube.com/watch?v=j_nmx90DsnU">Go update your Azure Kubernetes Service &lpar;AKS&rpar; nodes now! #Shorts #aks #azure #kubernetes #k8s</a></td></tr></table><!-- YOUTUBE:END -->
 
 ## 🐦 Latest Tweets
+
+
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/pixel_robots?ref_src=twsrc%5Etfw")
+
+
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pixel_robots&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 
