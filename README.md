@@ -10,12 +10,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Azure%20Advocate%20and%20Microsoft%20MVP;Sysadmin%20at%20heart;15%2B%20years%20of%20IT%20experience;Always%20learning%20new%20things&font=roboto&center=true&width=440&height=45&color=ffea00&vCenter=true&size=22"></a>
 </p>
 
-
+<div align="center">
 ![GitHub followers](https://img.shields.io/github/followers/pixelrobots?style=social)
 [![Linkedin: Richard Hooper](https://img.shields.io/badge/-Richard%20Hooper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-hooper-uk/)](https://www.linkedin.com/in/richard-hooper-uk/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/pixel_robots?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCs6gF5L-7iaoHlTDYpAlgsQ?style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=pixelrobots&left_color=gray&right_color=blue)
+</div>
 
 ## 📊 Github stats
 <p >
@@ -45,7 +46,7 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
-<div align="center">
+<div align="left">
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/pixelrobots?sub_confirmation=1)
 
