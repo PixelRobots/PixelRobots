@@ -32,7 +32,7 @@
 </br>
 </br>
 
-## 📺 Latest Blog Posts
+## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Sponsored: SysAdmin Horror Stories Vol.3 – FREE eBook](https://pixelrobots.co.uk/2021/10/sponsored-sysadmin-horror-stories-vol-3-free-ebook/?utm_source=rss&utm_medium=rss&utm_campaign=sponsored-sysadmin-horror-stories-vol-3-free-ebook)
 - [AKS burst to ACI when node pool is full](https://pixelrobots.co.uk/2021/08/aks-burst-to-aci-when-node-pool-is-full/?utm_source=rss&utm_medium=rss&utm_campaign=aks-burst-to-aci-when-node-pool-is-full)
