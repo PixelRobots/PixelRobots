@@ -45,6 +45,12 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/pixelrobots?sub_confirmation=1)
+
+</div>
+
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aowwo8-N_Kc"><img width="55%" src="https://i.ytimg.com/vi/aowwo8-N_Kc/mqdefault.jpg"></a></td></tr><tr>
 <td><a href="https://www.youtube.com/watch?v=aowwo8-N_Kc">WebAssembly comes to Azure Kubernetes Service #shorts #aks #azure #kubernetes #k8s</a><br/>Wed Oct 13 2021 8:26 AM</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hNSaHx6WUF8"><img width="55%" src="https://i.ytimg.com/vi/hNSaHx6WUF8/mqdefault.jpg"></a></td></tr><tr>
