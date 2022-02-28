@@ -11,11 +11,20 @@
 </p>
 
 
-![GitHub followers](https://img.shields.io/github/followers/pixelrobots?style=social)
-[![Linkedin: Richard Hooper](https://img.shields.io/badge/-Richard%20Hooper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-hooper-uk/)](https://www.linkedin.com/in/richard-hooper-uk/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/pixel_robots?style=social&link=https://twitter.com/pixel_robots?ref_src=twsrc%5Etfw")](https://twitter.com/pixel_robots?ref_src=twsrc%5Etfw")
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCs6gF5L-7iaoHlTDYpAlgsQ?style=social&link=https://www.youtube.com/c/pixelrobots?sub_confirmation=1)](https://www.youtube.com/c/pixelrobots?sub_confirmation=1)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=pixelrobots&left_color=gray&right_color=blue)
+<p align="center">
+  <a href="https://www.youtube.com/c/pixelrobots?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCs6gF5L-7iaoHlTDYpAlgsQ?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/c/pixelrobots?sub_confirmation=1"/></a> 
+  <a href="https://www.youtube.com/c/pixelrobots?sub_confirmation=1">
+    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCs6gF5L-7iaoHlTDYpAlgsQ?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/c/pixelrobots?sub_confirmation=1"/></a> 
+  <a href="https://twitter.com/pixel_robots?ref_src=twsrc%5Etfw">
+    <img alt="Twitter" title="Twitter" src="https://img.shields.io/twitter/follow/pixel_robots?color=lightblue&label=%40pixel_robots&logo=twitter&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/richard-hooper-uk">
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Richard%20Hooper-blue?style=for-the-badge&logo=Linkedin&logoColor=white/"></a>
+  <a href="https://github.com/pixelrobots?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/pixelrobots?logo=github&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/pixelrobots?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/pixelrobots?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 
 ## 📊 Github stats
