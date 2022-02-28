@@ -61,13 +61,13 @@
 
 </div>
 
-<!-- YOUTUBE:START -->
-[![WebAssembly comes to Azure Kubernetes Service #shorts #aks #azure #kubernetes #k8s](https://freshidea.com/jonah/app/youtube-card/?id=aowwo8-N_Kc)](https://www.youtube.com/watch?v=aowwo8-N_Kc "WebAssembly comes to Azure Kubernetes Service #shorts #aks #azure #kubernetes #k8s")
-[![Check out the Azure Kubernetes Service deployer! #shorts #aks #azure #kubernetes #k8s](https://freshidea.com/jonah/app/youtube-card/?id=hNSaHx6WUF8)](https://www.youtube.com/watch?v=hNSaHx6WUF8 "Check out the Azure Kubernetes Service deployer! #shorts #aks #azure #kubernetes #k8s")
-[![The new add-on commands are now live in preview for Azure Kubernetes Service. #shorts #aks #azure](https://freshidea.com/jonah/app/youtube-card/?id=HX72ifEOkdw)](https://www.youtube.com/watch?v=HX72ifEOkdw "The new add-on commands are now live in preview for Azure Kubernetes Service. #shorts #aks #azure")
-[![Is WASM coming to Azure Kubernetes Service &lpar;AKS&rpar;? #shorts #aks #azure #kubernetes #k8s](https://freshidea.com/jonah/app/youtube-card/?id=2hjcX-SCmNs)](https://www.youtube.com/watch?v=2hjcX-SCmNs "Is WASM coming to Azure Kubernetes Service &lpar;AKS&rpar;? #shorts #aks #azure #kubernetes #k8s")
-[![Give the Azure Kubernetes Service &lpar;AKS&rpar; cloud skills challenge a go. #shorts #aks #azure #kubernetes](https://freshidea.com/jonah/app/youtube-card/?id=nW21Dg8ZogQ)](https://www.youtube.com/watch?v=nW21Dg8ZogQ "Give the Azure Kubernetes Service &lpar;AKS&rpar; cloud skills challenge a go. #shorts #aks #azure #kubernetes")
-[![Go update your Azure Kubernetes Service &lpar;AKS&rpar; nodes now! #Shorts #aks #azure #kubernetes #k8s](https://freshidea.com/jonah/app/youtube-card/?id=j_nmx90DsnU)](https://www.youtube.com/watch?v=j_nmx90DsnU "Go update your Azure Kubernetes Service &lpar;AKS&rpar; nodes now! #Shorts #aks #azure #kubernetes #k8s")<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aowwo8-N_Kc"><img width="100%" src="https://i.ytimg.com/vi/aowwo8-N_Kc/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=aowwo8-N_Kc">WebAssembly comes to Azure Kubernetes Service #shorts #aks #azure #kubernetes #k8s</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=hNSaHx6WUF8"><img width="100%" src="https://i.ytimg.com/vi/hNSaHx6WUF8/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=hNSaHx6WUF8">Check out the Azure Kubernetes Service deployer! #shorts #aks #azure #kubernetes #k8s</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=HX72ifEOkdw"><img width="100%" src="https://i.ytimg.com/vi/HX72ifEOkdw/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=HX72ifEOkdw">The new add-on commands are now live in preview for Azure Kubernetes Service. #shorts #aks #azure</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=2hjcX-SCmNs"><img width="100%" src="https://i.ytimg.com/vi/2hjcX-SCmNs/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=2hjcX-SCmNs">Is WASM coming to Azure Kubernetes Service &lpar;AKS&rpar;? #shorts #aks #azure #kubernetes #k8s</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=nW21Dg8ZogQ"><img width="100%" src="https://i.ytimg.com/vi/nW21Dg8ZogQ/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=nW21Dg8ZogQ">Give the Azure Kubernetes Service &lpar;AKS&rpar; cloud skills challenge a go. #shorts #aks #azure #kubernetes</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=j_nmx90DsnU"><img width="100%" src="https://i.ytimg.com/vi/j_nmx90DsnU/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=j_nmx90DsnU">Go update your Azure Kubernetes Service &lpar;AKS&rpar; nodes now! #Shorts #aks #azure #kubernetes #k8s</a></td></tr></table><!-- YOUTUBE:END -->
 
 ## 🐦 Latest Tweets
 
