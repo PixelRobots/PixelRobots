@@ -20,5 +20,5 @@ jobs:
           custom_tags: "postImage/cover_image/"   
           item_exec: |
             post.description = post.description.replace(/<\/?[^>]+(>|$)/g, "").slice(0,100)        
-template: '<table style="width:100%"><tr><td style="width:150px"><a href="$url"><img width="140px" src="$postImage"></a></td><td><a href="$url">$title</a> | $date <br> $description...</td></tr></table>$newline'            
+          template: '<table style="width:100%"><tr><td style="width:150px"><a href="$url"><img width="140px" src="$postImage"></a></td><td><a href="$url">$title</a> | $date <br> $description...</td></tr></table>$newline'            
           #template: '<a href="$url"><img width="140px" src="https://github.com/PixelRobots/PixelRobots/blob/master/images/PixelRobots_Desktop_Wallpaper.png?raw=true"></a>$newline<td><a href="$url">$title</a><br/>$date$newline</br>'
