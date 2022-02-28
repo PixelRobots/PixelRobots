@@ -17,7 +17,7 @@ jobs:
           feed_list: "https://pixelrobots.co.uk/feed/"
           commit_message: "Updated README with the latest blog posts"
           date_format: "mmm d, yyyy"
-          custom_tags: "postImage/media:content url/"
+          custom_tags: "postImage/featured_image/"
           disable_html_encoding: true
           item_exec: |
             post.description = post.description.replace(/<\/?[^>]+(>|$)/g, "").slice(0,100) 
