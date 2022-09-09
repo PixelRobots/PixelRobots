@@ -52,11 +52,7 @@
 
 ## 📺 Latest YouTube videos
 <!-- BEGIN YOUTUBE-CARDS -->
-<div align="left">
-
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/pixelrobots?sub_confirmation=1)
-
-</div>
+[![AKS Tips and Tricks no.4 #kubernetes #AKS #Azure #Shorts](https://ytcards.demolab.com/?id=nDGmMci5hiE&title=AKS+Tips+and+Tricks+no.4+%23kubernetes+%23AKS+%23Azure+%23Shorts&timestamp=1662733074&width=250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede "AKS Tips and Tricks no.4 #kubernetes #AKS #Azure #Shorts")](https://www.youtube.com/watch?v=nDGmMci5hiE) [![AKS Tips and Tricks no.3 #kubernetes #AKS #Azure #Shorts](https://ytcards.demolab.com/?id=1mlR385_B18&title=AKS+Tips+and+Tricks+no.3+%23kubernetes+%23AKS+%23Azure+%23Shorts&timestamp=1658503534&width=250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede "AKS Tips and Tricks no.3 #kubernetes #AKS #Azure #Shorts")](https://www.youtube.com/watch?v=1mlR385_B18) [![How to disable the local admin account in Azure Kubernetes Service (AKS)](https://ytcards.demolab.com/?id=AuErLOVwUJA&title=How+to+disable+the+local+admin+account+in+Azure+Kubernetes+Service+%28AKS%29&timestamp=1652959982&width=250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede "How to disable the local admin account in Azure Kubernetes Service (AKS)")](https://www.youtube.com/watch?v=AuErLOVwUJA) [![AKS Tips and Tricks no.2 #kubernetes #AKS #Azure #Shorts](https://ytcards.demolab.com/?id=gGTgGlhPi_g&title=AKS+Tips+and+Tricks+no.2+%23kubernetes+%23AKS+%23Azure+%23Shorts&timestamp=1652694301&width=250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede "AKS Tips and Tricks no.2 #kubernetes #AKS #Azure #Shorts")](https://www.youtube.com/watch?v=gGTgGlhPi_g) [![AKS Tips and Tricks no.1 #kubernetes #AKS #Azure #Shorts](https://ytcards.demolab.com/?id=GcLfRXPPLSM&title=AKS+Tips+and+Tricks+no.1+%23kubernetes+%23AKS+%23Azure+%23Shorts&timestamp=1652301058&width=250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede "AKS Tips and Tricks no.1 #kubernetes #AKS #Azure #Shorts")](https://www.youtube.com/watch?v=GcLfRXPPLSM) [![WebAssembly comes to Azure Kubernetes Service #shorts #aks #azure #kubernetes #k8s](https://ytcards.demolab.com/?id=aowwo8-N_Kc&title=WebAssembly+comes+to+Azure+Kubernetes+Service+%23shorts+%23aks+%23azure+%23kubernetes+%23k8s&timestamp=1634113585&width=250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede "WebAssembly comes to Azure Kubernetes Service #shorts #aks #azure #kubernetes #k8s")](https://www.youtube.com/watch?v=aowwo8-N_Kc)
 <!-- END YOUTUBE-CARDS -->
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- YouTube Cards - WIP by DenverCoder1 -->
@@ -106,4 +102,3 @@
 - <a href="https://www.youtube.com/channel/UCs6gF5L-7iaoHlTDYpAlgsQ/">YouTube</a>
 - <a href="https://www.linkedin.com/in/richard-hooper-598a1412/">LinkedIn</a>
 -->
-
