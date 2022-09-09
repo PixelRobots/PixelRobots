@@ -12,9 +12,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in pixelrobots posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://pixelrobots.co.uk/feed"
+          feed_list: "https://pixelrobots.co.uk/feed/"
           commit_message: "Updated README with the latest blog posts"
           date_format: "mmm d, yyyy"
           custom_tags: "postImage/featured_image/"
