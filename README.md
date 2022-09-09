@@ -51,6 +51,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest YouTube videos
+<!-- BEGIN YOUTUBE-CARDS -->
+<div align="left">
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/pixelrobots?sub_confirmation=1)
+
+</div>
+<!-- END YOUTUBE-CARDS -->
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
