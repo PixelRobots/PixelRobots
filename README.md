@@ -52,12 +52,12 @@
 
 ## 📺 Latest YouTube videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![🚨📢New AKS Release📢🚨 2023-03-19](https://ytcards.demolab.com/?id=vbJK-_5ZPns&title=%F0%9F%9A%A8%F0%9F%93%A2New+AKS+Release%F0%9F%93%A2%F0%9F%9A%A8+2023-03-19&lang=en&timestamp=1680115411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "🚨📢New AKS Release📢🚨 2023-03-19")](https://www.youtube.com/watch?v=vbJK-_5ZPns)
 [![🚨📢New AKS Release📢🚨 2023-03-05](https://ytcards.demolab.com/?id=P65MP0XRuxI&title=%F0%9F%9A%A8%F0%9F%93%A2New+AKS+Release%F0%9F%93%A2%F0%9F%9A%A8+2023-03-05&lang=en&timestamp=1678955130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "🚨📢New AKS Release📢🚨 2023-03-05")](https://www.youtube.com/watch?v=P65MP0XRuxI)
 [![🚨📢New AKS Release📢🚨 2023-02-26](https://ytcards.demolab.com/?id=W3BUE-uoLRo&title=%F0%9F%9A%A8%F0%9F%93%A2New+AKS+Release%F0%9F%93%A2%F0%9F%9A%A8+2023-02-26&lang=en&timestamp=1677838392&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "🚨📢New AKS Release📢🚨 2023-02-26")](https://www.youtube.com/watch?v=W3BUE-uoLRo)
 [![New AKS Release 2023-02-19 #shorts](https://ytcards.demolab.com/?id=E1USlyXcmQ8&title=New+AKS+Release+2023-02-19+%23shorts&lang=en&timestamp=1677421524&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "New AKS Release 2023-02-19 #shorts")](https://www.youtube.com/watch?v=E1USlyXcmQ8)
 [![🚨📢New AKS Release📢🚨 2023-02-12](https://ytcards.demolab.com/?id=iBYAUbdsX7w&title=%F0%9F%9A%A8%F0%9F%93%A2New+AKS+Release%F0%9F%93%A2%F0%9F%9A%A8+2023-02-12&lang=en&timestamp=1676967703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "🚨📢New AKS Release📢🚨 2023-02-12")](https://www.youtube.com/watch?v=iBYAUbdsX7w)
 [![New AKS release! 2023-01-29 #aks #azAKS #Azure #kubernetes](https://ytcards.demolab.com/?id=v_0BZJ7MnA4&title=New+AKS+release%21+2023-01-29+%23aks+%23azAKS+%23Azure+%23kubernetes&lang=en&timestamp=1675723008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "New AKS release! 2023-01-29 #aks #azAKS #Azure #kubernetes")](https://www.youtube.com/watch?v=v_0BZJ7MnA4)
-[![This ones about the changes to the uptime SLA for Azure Kubernetes Service.](https://ytcards.demolab.com/?id=7F-RFRkikXI&title=This+ones+about+the+changes+to+the+uptime+SLA+for+Azure+Kubernetes+Service.&lang=en&timestamp=1675433906&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "This ones about the changes to the uptime SLA for Azure Kubernetes Service.")](https://www.youtube.com/watch?v=7F-RFRkikXI)
 <!-- END YOUTUBE-CARDS -->
 
 
