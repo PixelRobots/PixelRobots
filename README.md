@@ -67,8 +67,6 @@
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/pixel_robots?ref_src=twsrc%5Etfw")
 
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pixel_robots&layout=wide)](https://github.com/gazf/github-readme-twitter)
-
 
 ## :globe_with_meridians: Community
 - <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003450?fullName=Richard%20Hooper=1">Microsoft Azure MVP</a> awarded in August 2019.
