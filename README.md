@@ -52,7 +52,12 @@
 
 ## 📺 Latest YouTube videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![KubeBuddy: Instant Kubernetes Cluster Health Checks with Zero Setup](https://ytcards.demolab.com/?id=4chdrZOqUuo&title=KubeBuddy%3A+Instant+Kubernetes+Cluster+Health+Checks+with+Zero+Setup&lang=en&timestamp=1745347246&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "KubeBuddy: Instant Kubernetes Cluster Health Checks with Zero Setup")](https://www.youtube.com/shorts/4chdrZOqUuo)
+[![🔥 AKS Tips & Tricks: Connect to Nodes with Cloud Shell & kubectl debug! 🚀](https://ytcards.demolab.com/?id=sC7X3mvY5SI&title=%F0%9F%94%A5+AKS+Tips+%26+Tricks%3A+Connect+to+Nodes+with+Cloud+Shell+%26+kubectl+debug%21+%F0%9F%9A%80&lang=en&timestamp=1740491250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔥 AKS Tips & Tricks: Connect to Nodes with Cloud Shell & kubectl debug! 🚀")](https://www.youtube.com/watch?v=sC7X3mvY5SI)
+[![🚨📢New AKS Release📢🚨 2023-04-02 & 2023-03-26](https://ytcards.demolab.com/?id=JZ7A1eZcXLM&title=%F0%9F%9A%A8%F0%9F%93%A2New+AKS+Release%F0%9F%93%A2%F0%9F%9A%A8+2023-04-02+%26+2023-03-26&lang=en&timestamp=1681319768&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🚨📢New AKS Release📢🚨 2023-04-02 & 2023-03-26")](https://www.youtube.com/shorts/JZ7A1eZcXLM)
+[![🚨📢New AKS Release📢🚨 2023-03-19](https://ytcards.demolab.com/?id=vbJK-_5ZPns&title=%F0%9F%9A%A8%F0%9F%93%A2New+AKS+Release%F0%9F%93%A2%F0%9F%9A%A8+2023-03-19&lang=en&timestamp=1680115411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🚨📢New AKS Release📢🚨 2023-03-19")](https://www.youtube.com/shorts/vbJK-_5ZPns)
+[![🚨📢New AKS Release📢🚨 2023-03-05](https://ytcards.demolab.com/?id=P65MP0XRuxI&title=%F0%9F%9A%A8%F0%9F%93%A2New+AKS+Release%F0%9F%93%A2%F0%9F%9A%A8+2023-03-05&lang=en&timestamp=1678955130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🚨📢New AKS Release📢🚨 2023-03-05")](https://www.youtube.com/shorts/P65MP0XRuxI)
+[![🚨📢New AKS Release📢🚨 2023-02-26](https://ytcards.demolab.com/?id=W3BUE-uoLRo&title=%F0%9F%9A%A8%F0%9F%93%A2New+AKS+Release%F0%9F%93%A2%F0%9F%9A%A8+2023-02-26&lang=en&timestamp=1677838392&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🚨📢New AKS Release📢🚨 2023-02-26")](https://www.youtube.com/shorts/W3BUE-uoLRo)
 <!-- END YOUTUBE-CARDS -->
 
 
