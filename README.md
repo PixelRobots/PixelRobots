@@ -28,19 +28,8 @@
 
 
 ## 📊 Github stats
-<p >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pixelrobots&show_icons=true&bg_color=ffea00&title_color=000000&text_color=000000&icon_color=ff0000&hide_border=true&count_private=true" />
-</p>
+  [![pixelrobots's GitHubCard](https://githubcard.com/pixelrobots.svg?d=IIzJBTBiFXQk)](https://githubcard.com/pixelrobots/card?utm_source=github&utm_medium=readme)
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START --><table style="width:100%"><tr><td style="width:150px"><a href="https://pixelrobots.co.uk/2026/09/aks-flex-nodes-are-in-preview-attaching-your-own-compute-to-a-managed-cluster/?utm_source=rss&utm_medium=rss&utm_campaign=aks-flex-nodes-are-in-preview-attaching-your-own-compute-to-a-managed-cluster"><img width="280px" src="https://pixelrobots.co.uk/wp-content/uploads/2026/09/ChatGPT-Image-Sep-23-2026-04_53_24-PM.png"></a></td><td><a href="https://pixelrobots.co.uk/2026/09/aks-flex-nodes-are-in-preview-attaching-your-own-compute-to-a-managed-cluster/?utm_source=rss&utm_medium=rss&utm_campaign=aks-flex-nodes-are-in-preview-attaching-your-own-compute-to-a-managed-cluster">AKS Flex Nodes Are in Preview: Attaching Your Own Compute to a Managed Cluster</a> | Sep 23, 2026 <br> Reading Time:   18 minutesMicrosoft has added flex nodes to Azure Kubernetes Service (AKS), and it&#...</td></tr></table>
